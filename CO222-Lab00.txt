@@ -1,0 +1,19 @@
+﻿CO222 – Programming Methodology
+Lab 00: An Introduction to Unix CLI 
+Instruction Sheet
+The main objective of Lab00 is to introduce you to Unix Command Line Interface (CLI). Lab00 is run online and the instructors of the lab will interact with you via the Internet.
+You need to login to a separate FEeLS course to complete this lab. The lab runs for four weeks (in parallel to the rest of the programming labs). Since it is an online lab, you will NOT be scheduled lab slots for completing Lab00.
+Following are some information about Lab00:
+    • Work-load: 1 to 2 hours per week, for four weeks
+    • Duration: 13 Jan - 7 Feb (four weeks) + 8 - 14 Feb (wrap-up)
+    • Conducted online through FEeLS
+    • Course home page https://feels.pdn.ac.lk/course/view.php?id=346
+    • Enrollment key: will be announced in the first CO222 lab
+    • Staff:
+        ◦ Lecturer	: Visvanath Ratnaweera
+        ◦ Instructor	: Hasindu Gamaraachchi
+(hasindu@ce.pdn.ac.lk)
+        ◦ Tutor		: Rajitha Ramanayake
+(rajitharamanayake@gmail.com) 
+
+
